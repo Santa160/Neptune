@@ -1,0 +1,1 @@
+export './promotion.page.dart';

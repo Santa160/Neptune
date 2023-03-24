@@ -1,0 +1,1 @@
+export './genology.page.dart';

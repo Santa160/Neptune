@@ -1,0 +1,1 @@
+export './genealogy.repo.dart';

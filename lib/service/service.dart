@@ -1,0 +1,12 @@
+export './data/data.dart';
+export './chopper_service/Genealogy/genealogy.service.dart';
+export './chopper_service/Register/register.service.dart';
+export './chopper_service/addMember/add_member.service.dart';
+export './chopper_service/dashbaord/dashboard.service.dart';
+export './chopper_service/forgetPassword/forget_password.service.dart';
+export './chopper_service/login/login.service.dart';
+export './chopper_service/profile/profile_service.dart';
+export './chopper_service/promotion/promotion.service.dart';
+export './chopper_service/transaction/transaction.service.dart';
+export './chopper_service/transfer/transfer.service.dart';
+export './chopper_service/withdraw/withdraw.service.dart';
